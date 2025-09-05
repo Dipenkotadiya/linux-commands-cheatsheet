@@ -1,11 +1,15 @@
 📂 Linux Commands Cheatsheet with Examples
 
 Welcome to my DevOps learning journey! 🚀
+
 This repository documents all the Linux commands, scripts, and practical examples I practice daily as I work toward becoming an industry-ready DevOps Engineer by January 2026.
 
 📌 Why This Repo?
+
 Linux is the foundation of DevOps. Every tool, container, and cloud server sits on top of it.
+
 This repo serves as:
+
 ✅ A personal reference guide for quick recall
 ✅ A showcase of my hands-on practice
 ✅ A public tracker of my learning journey
